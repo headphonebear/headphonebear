@@ -6,6 +6,7 @@
 - 📫 Here.
 - 😄 Pronouns: Bear. Haha, he, him. 
 - ⚡ Fun fact: I very much like Brian Eno.
+- 🐻 Will use when havint something to write: https://webdump.headphonebear.de/
 
 <!---
 headphonebear/headphonebear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
