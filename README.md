@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @headphonebear
+- 🏡 Building infrastructure "homehill" (homelab)
 - 👀 I’m interested in tinkering with python and music-files.
-- 🌱 I’m currently learning more about python and elastic search.
+- 🌱 I’m currently learning more about python and go.
 - 👨‍🔧 Docker with Portainer, K8s with ArgoCD, GitOps.
 - 💞️ I’m looking to collaborate on music databases.
 - 📫 Here.
