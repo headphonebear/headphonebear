@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @headphonebear
 - 🏡 Building infrastructure "homehill" (homelab)
 - 👀 I’m interested in tinkering with python and music-files.
-- 🌱 I’m currently learning more about python and go.
-- 👨‍🔧 Docker with Portainer, K8s with ArgoCD, GitOps.
+- 🌱 I’m currently learning more about python, go and rust.
+- 👨‍🔧 Docker with Portainer, K8s with ArgoCD, everything GitOps.
 - 💞️ I’m looking to collaborate on music databases.
 - 📫 Here.
 - 😄 Pronouns: Bear. Haha, he, him. 
